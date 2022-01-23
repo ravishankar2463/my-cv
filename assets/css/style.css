@@ -164,12 +164,15 @@ h3{
 }
 
 
+/* alternate between these */
+#contact{
+  display: none;
+}
 
-
-
-
-
-
+/* #nowork{
+  display: none;
+} */
+/* alternate between these */
 
 
 
